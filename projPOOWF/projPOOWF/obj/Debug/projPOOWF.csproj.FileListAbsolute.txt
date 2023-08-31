@@ -1,0 +1,11 @@
+C:\20230831\projPOOWF\projPOOWF\bin\Debug\projPOOWF.exe.config
+C:\20230831\projPOOWF\projPOOWF\bin\Debug\projPOOWF.exe
+C:\20230831\projPOOWF\projPOOWF\bin\Debug\projPOOWF.pdb
+C:\20230831\projPOOWF\projPOOWF\obj\Debug\projPOOWF.csproj.AssemblyReference.cache
+C:\20230831\projPOOWF\projPOOWF\obj\Debug\projPOOWF.csproj.SuggestedBindingRedirects.cache
+C:\20230831\projPOOWF\projPOOWF\obj\Debug\projPOOWF.Properties.Resources.resources
+C:\20230831\projPOOWF\projPOOWF\obj\Debug\projPOOWF.csproj.GenerateResource.cache
+C:\20230831\projPOOWF\projPOOWF\obj\Debug\projPOOWF.csproj.CoreCompileInputs.cache
+C:\20230831\projPOOWF\projPOOWF\obj\Debug\projPOOWF.exe
+C:\20230831\projPOOWF\projPOOWF\obj\Debug\projPOOWF.pdb
+C:\20230831\projPOOWF\projPOOWF\obj\Debug\projPOOWF.frmSoma.resources
